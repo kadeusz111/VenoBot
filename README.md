@@ -1,5 +1,4 @@
-[![JavaScript]
-?style=for-the-badge&logo=appveyor
+[![JavaScript]https://img.shields.io/badge/-Discord.js%20V13-yellow
 # VenoBot
 VenoBot is a private bot for discord. Veno is developed in discord.js v13 by one person.  
 
