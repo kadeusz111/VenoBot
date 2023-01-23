@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/discordjs/discord.js" alt="Discord.js V13">
         <img src="https://img.shields.io/badge/-Discord.js%20V13-yellow" /></a>
-    <a href="google.com" alt="VenoWeb">
+    <a  alt="VenoWeb">
         <img src="https://img.shields.io/badge/-VenoWeb-blueviolet" /></a>
   </p>
  
