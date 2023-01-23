@@ -3,8 +3,10 @@
 <p align="center">
     <a href="https://github.com/discordjs/discord.js" alt="Discord.js V13">
         <img src="https://img.shields.io/badge/-Discord.js%20V13-yellow" /></a>
+    <a href="google.com" alt="VenoWeb">
+        <img src="https://img.shields.io/badge/-VenoWeb-blueviolet" /></a>
   </p>
-  
+ 
 # VenoBot
 VenoBot is a private bot for discord. Veno is developed in discord.js v13 by one person.  
 
