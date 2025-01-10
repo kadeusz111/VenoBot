@@ -7,12 +7,8 @@
 # VenoBot
 Sample code of VenoBot by Kadeusz
 
-# Build
-``` 
-npm install
-```
 
-# Start
+## Start
 ``` 
 node .
 ```
@@ -25,4 +21,9 @@ for first start you need too add confing.json in main folder
 	"guildId": "token",
 	"token": "token"
 }
+```
+
+## Build
+``` 
+npm install
 ```
