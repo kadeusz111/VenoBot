@@ -3,14 +3,26 @@
 <p align="center">
     <a href="https://github.com/discordjs/discord.js" alt="Discord.js V13">
         <img src="https://img.shields.io/badge/-Discord.js%20V13-yellow" /></a>
-    <a  alt="VenoWeb">
-        <img src="https://img.shields.io/badge/-VenoWeb-blueviolet" /></a>
-  </p>
  
 # VenoBot
-VenoBot is a private bot for discord. Veno is developed in discord.js v13 by one person.  
+Sample code of VenoBot by Kadeusz
 
-### Commands:
-- 4fun : avatar, userinfo
-- Anime: cuudle, hug, kiss, punch, slap, waifu
-- Spotify: spotify
+# Build
+``` 
+npm install
+```
+
+# Start
+``` 
+node .
+```
+
+for first start you need too add confing.json in main folder
+``` 
+{
+	"botId": "token",
+	"clientId": "token",
+	"guildId": "token",
+	"token": "token"
+}
+```
